@@ -1,5 +1,6 @@
 # France-Accidents-Predictor-Spark
 Multidimensional analysis and prediction of road accident severity in France (2021-2023) using Apache Spark and MLlib: Identifying risk profiles through Gradient Boosted Trees
+
 Analyse multidimensionnelle et prédiction de la gravité des accidents de la route en France (2021-2023) via Apache Spark et MLlib. Identification des profils à risque par Gradient Boosted Trees
 
 
