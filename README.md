@@ -46,7 +46,3 @@ Analyse multidimensionnelle et prédiction de la gravité des accidents de la ro
 - [cite_start]**Visualisation :** Matplotlib, Seaborn. [cite: 37]
 - [cite_start]**Source :** Bulletin d'Analyse des Accidents Corporels (BAAC). [cite: 72]
 
-## 👥 Auteurs
-- [cite_start]Nathan WOHL [cite: 52]
-- [cite_start]Robin KHATIB [cite: 53]
-- [cite_start]Alexandru NITESCU [cite: 54]
