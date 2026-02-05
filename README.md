@@ -1,4 +1,4 @@
-[Click here to view the Project Report (PDF)](./rapport2_NathanW_RobinK_AlexandruN.pdf)
+[Click here to view the Project Report (PDF)](./RapportProjet.pdf)
 
 # France-Accidents-Predictor-Spark
 Multidimensional analysis and prediction of road accident severity in France (2021-2023) using Apache Spark and MLlib: Identifying risk profiles through Gradient Boosted Trees
